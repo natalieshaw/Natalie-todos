@@ -6,5 +6,7 @@ cheese
 lemon
 lime 
 oranges 
+brocoli
+herbs: tarragon, thyme, rosemary
 
 
