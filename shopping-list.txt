@@ -1,9 +1,10 @@
 eggs
 milk
 bread
-cheese
 butter
-oranges  
+cheese 
 lemon
 lime 
+oranges 
+
 
